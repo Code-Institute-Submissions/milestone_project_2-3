@@ -5,10 +5,73 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
     background-color: #525252;
-    color: #555555;
+    color: #ffffff;
+}
+
+/*--------------------------------------------Special Paddings/Margins/Text*/
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 
+
+
+.history-heading,
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+
+/*--------------------------------------------Heading*/
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.name {
+    font-family: "Exo", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #ffffff;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #ffffff;
+}
+
+
+/*------------------------------------- Carousel */
 .carousel-item {
   height: 65vh;
   min-height: 350px;
@@ -29,16 +92,19 @@ body {
 /*--------------------------------Content container */
 
 .content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 85px;
+    padding-bottom: 55px;
 }
 
 /*--------------------------------Block dividers*/
 
+.block-divider {
+    background-color: #10a4e8;
+}
 
 .block-divider--short {
-    width: 45px;
-    background-color: #ffd700;
+    width: 100px;
+    background-color: #10a4e8;
 }
 
 /*--------------------------------------------Hover.css*/
