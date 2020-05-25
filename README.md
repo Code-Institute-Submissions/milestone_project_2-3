@@ -78,8 +78,9 @@ In the footer of every page there is a downloadable price list and links to the 
   * https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js
   * https://code.jquery.com/jquery-3.5.1.slim.min.js
   * https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
-    * These were all used to help style the website, the grid system layout of it, link the api of Google maps and the submit button for the contact page.
+    * These were all used to help style the website, the grid system layout of it, link the api of Google maps and the submit button for the contact page
   * https://startbootstrap.com/snippets/thumbnail-gallery
+    * This page was used to get ideas for the layout
 
 * Font Awesome
   * https://use.fontawesome.com/releases/v5.8.1/css/all.css
@@ -90,6 +91,10 @@ In the footer of every page there is a downloadable price list and links to the 
 * Hover
   * https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
     * This was used to have the hover styles run smoothly
+
+* Google Maps
+  * For my API key
+  * Code to add the map to the index page
 
 * Validators
   * An [HTML validator](https://validator.w3.org/#validate_by_input) was used to check the code.
