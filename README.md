@@ -79,6 +79,7 @@ In the footer of every page there is a downloadable price list and links to the 
   * https://code.jquery.com/jquery-3.5.1.slim.min.js
   * https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
     * These were all used to help style the website, the grid system layout of it, link the api of Google maps and the submit button for the contact page.
+  * https://startbootstrap.com/snippets/thumbnail-gallery
 
 * Font Awesome
   * https://use.fontawesome.com/releases/v5.8.1/css/all.css
@@ -143,7 +144,7 @@ I started writing the code in gitpod and saving it in the github repositorie, ev
 ## Deployment
 
 In gitpod I deployed my project by pushing it in terminal window ( in bash ) to my Github repository named milestone_project_2 via the command line.  Each time an edit was done
-I would save it to my [GitHub](https://github.com/Stubo087/milestone_project_2.git)
+I would save it to my [GitHub](https://github.com/Stubo087/milestone_project_2)
 My GitHub page was built from the Master Branch.
 
 ## Credits
@@ -165,5 +166,7 @@ All of the images were obtained from [unsplash](https://unsplash.com/s/photos/je
 
 ## Acknowledgements
 
-* Thank you to my mentor, Antoijia Simic who was a great help to me in showing how I should design my website to make it look modern, showed me examples
-* Antoijia also past on her vast knowlege of different aspects to do with making and designing my project.
+* Thank you to my mentor, Antoijia Simic who went through the first stage of the project with me but then was going on a 2 month leave.
+* Thank you to my new mentor, Adegbenga Adeye who went throught each stage with me.
+* Adegbenga also past on his knowlege of different aspects to do with making and designing my project.
+* Thank you to Xavier, one of the Tutors who helped me with the last problem I had, the map did work but we got there. :)
