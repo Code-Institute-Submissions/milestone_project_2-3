@@ -44,7 +44,7 @@ h4 {
 /*--------------------------------------------Heading*/
 
 header {
-    margin: 0;
+    padding-top: 50px;
 }
 
 .heading {
@@ -117,8 +117,8 @@ header {
 footer {
     background-color: #343A40;
     color: #fafafa;
-    min-height: 120px;
-    margin: 0px;
+    min-height: 80px;
+    margin: 50,50,50,50px;
 }
 
 footer .cv-pdf i {
@@ -161,7 +161,9 @@ footer .cv-pdf i:hover {
 }
 
 #footer-details {
-    margin: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /*----------------------------------------Contact Form */
